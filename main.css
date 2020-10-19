@@ -1,0 +1,220 @@
+body{
+  background: white;
+  color: black;
+  font-size: 16px;
+  font-family: 'Patrick Hand', cursive;
+}
+
+p{
+  font-size: 16px;
+  font-weight: 500;
+
+}
+/*****grid******/
+.full-width{
+  width: 1200px;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+.half-width{
+  width: 600px; 
+  margin: 0 auto;
+}
+
+.third-width{
+  float: left;
+  width: 400px;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  height: 90px;
+  width: 1200px;
+  padding: 0 auto auto auto;
+}
+
+
+main{
+  overflow: auto;
+  width: 1200px;
+  margin: 0 auto
+}
+
+.pc-icon img{
+  width: 40px;
+  vertical-align: baseline;
+}
+
+.full-width #about-me{
+  background: linear-gradient(black, #000099, #66c2ff, #ffcccc, #ffeee6);
+}
+
+footer{
+  background-color: #ffcccc;
+  text-align: center;
+  width: 1200px;
+}
+
+/* *****header****** */
+nav{
+  float: right;
+  padding: 0 75px 0 25px ;
+  width:50%;
+}
+
+header nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li{
+  float: right;
+  display: inline-block;
+  font-weight: 700;
+  padding-right: 40px;
+}
+
+header nav ul li a{
+  text-decoration: none;
+}
+.full-width
+nav{
+  margin-left: 50px;
+}
+
+h1{
+  font-family: 'Permanent Marker', cursive;
+  }
+
+h2{
+  width: 1200px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 30px;
+  padding: auto;
+  text-align: center;
+}
+
+h3{
+  font-size: 30px;
+  text-align: center;
+}
+
+main .half-width  p{
+  text-align: center;
+  padding: 10px;
+}
+
+#about-me h2{
+  color: white;
+  text-align: center;
+}
+
+
+#about-me img{
+width: 150px;
+border: solid 5px white ;
+
+}
+
+#about-me
+.half-width{
+  width: 1200px;
+ padding: auto 50px auto 50px; 
+}
+
+figure img{
+  width: 200px;
+  }
+
+  #about-me{
+    text-align: center;
+    padding-right: 200px;
+  }
+
+
+#portfolio{
+  float: left;
+  padding: auto 10px auto 30px;
+}
+
+.full-width
+#portfolio{
+  width: 1200px;
+}
+.projects{
+  display: inline-block;
+  margin: 13px;
+  width:360px;
+  vertical-align: baseline;
+  text-align: center;
+}
+
+.portfolio-img
+.portfolio-article{
+  text-align: center;
+ }
+
+.icon{
+  float: left;
+  text-align: center;
+  padding: 10px;
+  margin: 15px;
+}
+
+footer{
+   margin: 0 auto;
+  padding: 0;
+}
+
+footer .third-width{
+  width: 350px;  
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 10px;
+}
+
+footer 
+.third-width 
+p{
+  font-weight: 700;
+}
+
+/* japanese-page */
+
+.half-width
+.full-width
+ #japanese-page {
+ font-family:"Nico Moji", cursive;
+  font-weight: 700;
+}
+
+.half-width
+.full-width
+.third-width
+#japanese-page p{
+  font-family: 'Chilanka', cursive;
+  font-weight: 600;
+}
+
+.full-width
+#about-me
+#japanese-page{
+  font-size: 14px;
+ }
+
+#about-me
+#half-width
+#japanese-page
+p{
+  margin: 0 auto;
+ }
+
+ footer
+ .full-width
+ #japanese-page{
+   margin: 0 auto;
+ }
